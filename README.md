@@ -7,9 +7,14 @@ OpenCV is an open-source computer vision library that provides a variety of tool
 The Haar cascade classifier is a machine learning algorithm that is trained on a set of positive and negative images. Positive images are images that contain faces, while negative images do not contain faces. The algorithm learns to identify the features of a face, such as eyes, nose, and mouth, and then uses these features to detect faces in new images.
 
 To use the Haar cascade classifier to detect faces in OpenCV, you can use the following steps:
+
 i)Import the necessary libraries.
+
 ii)Load the Haar cascade classifier.
+
 iii)Read the image that you want to detect faces in.
+
 iv)Detect faces in the image using the Haar cascade classifier.
+
 v)Draw a rectangle around each detected face.
 
